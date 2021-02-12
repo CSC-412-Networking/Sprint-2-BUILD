@@ -2,11 +2,12 @@
 
 ## Topics:
 
-1. Ethernet
+1. Ethernet & MAC Addressing 
 2. ARP/rARP
 3. VLAN
 4. Bridges/Switches & Switching
 5. Spanning Tree Protocol
+6. Broadcast/Multicast/Unicast
 
 ## Resources:
 
@@ -48,9 +49,9 @@
 
 18. Youtube: [Spanning Tree Protocol](https://www.youtube.com/watch?v=GSKoQ8ZR8rw)
 
+19. Youtube: [Mac Addressing and Breif explination of Unicast, Multicast,and Broadcast](https://youtu.be/N7dM_kD28dMARP/rARP)
 
-
-
+20. Youtube: [Broadcast/Multicast/Unicast](https://youtu.be/XEAFHBT3ViM)
 
 
 
