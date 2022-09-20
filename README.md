@@ -6,12 +6,9 @@
 - Examine the relationship between two or more Data link layer components
 
 ## Topics:
-1. Ethernet & MAC Addressing
-2. ARP/rARP
-3. VLAN
-4. Bridges/Switches & Switching
-5. Spanning Tree Protocol
-6. Broadcast/Multicast/Unicast
+1. **Data Link Layer:** Ethernet Headers, MAC Addressing, ARP, rARP
+2. **Switching:** Bridges, Hubs, Switches, Switching, VLANs,
+3. **Data Link Communications:** Spanning Tree Protocol, Unicast, Broadcast, Multicast
 
 ## Known Resources
 
